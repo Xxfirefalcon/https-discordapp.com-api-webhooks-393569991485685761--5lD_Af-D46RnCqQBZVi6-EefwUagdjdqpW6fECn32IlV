@@ -1,2 +1,2 @@
+welcome to the open chat
 
-general bot Hello and welcome to the sever
